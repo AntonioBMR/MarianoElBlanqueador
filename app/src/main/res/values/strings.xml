@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Mariano El Blanco</string>
+    <string name="score"> Millones Blanqueados: </string>
+    <string name="highscore">Top más corrupto: </string>
+    <string name="level"> Maletines limpiados: </string>
+    <string name="lives"> Amnistias pendientes: </string>
+    <string name="gameover">A la carcel corrupto!</string>
+    <string name="welcome">Ayuda a Mariano blanquear</string>
+    <string name="clicktostart">!!!!empezar!!!!!!</string>
+    <string name="clearedlevel">Nivel de blanqueo superado </string>
+    <string name="ontolevel">Siguiente nivel </string>
+    <string name="menu_restart">Jugar de nuevo</string>
+    <string name="menu_settings">Ajustes</string>
+    <string name="settings">settings</string>
+</resources>
